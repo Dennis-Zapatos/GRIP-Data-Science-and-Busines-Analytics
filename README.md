@@ -4,4 +4,6 @@
 
 Project focus: Descriptive Analytics, Predictive Analytics
 
+Youtube: https://www.youtube.com/watch?v=EHrrIvw9kHI
+
 More information about the internship here: https://internship.thesparksfoundation.info/
